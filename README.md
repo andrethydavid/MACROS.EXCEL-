@@ -8,4 +8,6 @@ Para iniciar macros. clic en programador y clic en visual basic
 MACROS Una macro es una aacion o un conjunto de accion que se pueden ejecutar todas las veces que deses .
 Si hay tareas de mircrosoft excel que realizas  reiteradamente, puedes grabar una macro para automatizalas 
 
- 
+
+Diagr de flujo  :  Es una manera visual donde podemos realizar el algoritmo  de forma  de mapa para realizar la solucion del problema 
+
