@@ -12,3 +12,6 @@ Si hay tareas de mircrosoft excel que realizas  reiteradamente, puedes grabar un
 Diagr de flujo  :  Es una manera visual donde podemos realizar el algoritmo  de forma  de mapa para realizar la solucion del problema 
 
 
+![Captura](https://user-images.githubusercontent.com/72534486/203465290-125f1986-a814-4b65-a089-1efcb96626c1.PNG)
+
+
