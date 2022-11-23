@@ -15,3 +15,6 @@ Diagr de flujo  :  Es una manera visual donde podemos realizar el algoritmo  de 
 ![Captura](https://user-images.githubusercontent.com/72534486/203465290-125f1986-a814-4b65-a089-1efcb96626c1.PNG)
 
 
+Variables y tipos de datos  
+![image](https://user-images.githubusercontent.com/72534486/203465659-dbfdaae7-52b4-49a9-b516-588ee93dab98.png)
+
