@@ -18,3 +18,12 @@ Diagr de flujo  :  Es una manera visual donde podemos realizar el algoritmo  de 
 Variables y tipos de datos  
 ![image](https://user-images.githubusercontent.com/72534486/203465659-dbfdaae7-52b4-49a9-b516-588ee93dab98.png)
 
+
+Funciones y subrutinas: 
+Procedimientos que realizamos una o varias actividades 
+pueden llamar a otros procedimientos
+pueden tener o no un parametro
+las funciones tienen un valor de retorno
+las subrutinas no tienen valor de retorno 
+
+
