@@ -26,4 +26,5 @@ pueden tener o no un parametro
 las funciones tienen un valor de retorno
 las subrutinas no tienen valor de retorno 
 
-
+GRABAR MACRO 
+Dar clic en programador , dice guardar macros 
