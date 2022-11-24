@@ -28,3 +28,10 @@ las subrutinas no tienen valor de retorno
 
 GRABAR MACRO 
 Dar clic en programador , dice guardar macros 
+
+ sintaxis
+ definir una rutina public/privada  sub nombre parametros as tipo de dato  definir si la funcion o subrutina seraprivada o publica.
+ privado se refiere a que solamente se puede utilizar en ese modulo
+ publico se refiere q que se puede utilizar en cualquier modulo del documento 
+ 
+ 
