@@ -34,4 +34,23 @@ Dar clic en programador , dice guardar macros
  privado se refiere a que solamente se puede utilizar en ese modulo
  publico se refiere q que se puede utilizar en cualquier modulo del documento 
  
+Public/Private:
+● Definir si la función o subrutina será privada o pública.
+● Privado: se refiere a que solamente se puede utilizar en ese módulo.
+● Público: se refiere a que se puede utilizar en cualquier módulo del documento.
+.
+Function/Sub:
+● Si se requiere un valor de retorno se utiliza function, si no se necesita valor de retorno, sub.
+.
+Nombre:
+● Se puede utilizar un nombre que haga referencia al funcionamiento de la función o subrutina.
+.
+(parámetros):
+● Se incluyen las variables que representan cada uno de los parámetros necesarios.
+.
+as Tipo de dato:
+
+● Se escribe el tipo de dato del valor de retorno.
+ 
+ 
  
