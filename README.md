@@ -42,6 +42,7 @@ Public/Private:
 ● Público: se refiere a que se puede utilizar en cualquier módulo del documento.
 
 Function/Sub:
+![image](https://user-images.githubusercontent.com/72534486/206874270-20470758-9ef4-4dd5-a35c-a4c97ce47829.png)
 
 ● Si se requiere un valor de retorno se utiliza function, si no se necesita valor de retorno, sub.
 
