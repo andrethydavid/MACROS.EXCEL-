@@ -35,6 +35,8 @@ Dar clic en programador , dice guardar macros
  publico se refiere q que se puede utilizar en cualquier modulo del documento 
  
 Public/Private:
+![image](https://user-images.githubusercontent.com/72534486/206873775-49e47f11-b235-43af-8256-c139a9c99381.png)
+
 ● Definir si la función o subrutina será privada o pública.
 ● Privado: se refiere a que solamente se puede utilizar en ese módulo.
 ● Público: se refiere a que se puede utilizar en cualquier módulo del documento.
