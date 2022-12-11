@@ -112,6 +112,31 @@ End Sub
 
 Select Case
 
+SE utiliza con las subtutinas en un caso especifico en los casos is es mayor o menor a cero o dar instrucciones es decir si es mayor o menor a cero has esto y si no  has lo otro
+es un porgrama para ver mayor o menor con funciones espcificas 
+
+
+![image](https://user-images.githubusercontent.com/72534486/206885655-69453f55-5200-4aae-b590-52a9b78cb76d.png)
+
+Public Function edad() As Integer
+    
+    Dim nacimiento As Integer
+    Dim a
+    Dim b
+    Dim año As Integer
+    Dim tomar
+    año = InputBox("ingrese el año de nacimiento", "Año de nacimiento")
+    nacimiento = 2022 - año
+    a = MsgBox("tu edad es de " & nacimiento, , "edad")
+    Select Case nacimiento
+        Case Is >= 19
+            tomar = " a tomar"
+        Case Else
+            tomar = " no puedes tomar"
+    End Select
+    b = MsgBox("si deseas pero" & tomar, , "salimos")
+    
+End Function
 
 
 
