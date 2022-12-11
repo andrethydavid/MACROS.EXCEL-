@@ -44,6 +44,8 @@ Public/Private:
 Function/Sub:
 ![image](https://user-images.githubusercontent.com/72534486/206874270-20470758-9ef4-4dd5-a35c-a4c97ce47829.png)
 
+![image](https://user-images.githubusercontent.com/72534486/206874321-68764ab8-69f0-4a59-af0c-4b117d0f1717.png)
+
 ● Si se requiere un valor de retorno se utiliza function, si no se necesita valor de retorno, sub.
 
 Nombre:
@@ -61,5 +63,21 @@ Crear una subrutina
 
  ![image](https://user-images.githubusercontent.com/72534486/203888511-8d1ee44e-f039-4c69-b620-188903bdedc6.png)
  
-ñ
- 
+Crear una subrutina
+
+ ![image](https://user-images.githubusercontent.com/72534486/206874926-f46aabaf-953d-44c2-a653-ffe72ef7b8bd.png)
+ Public Sub prueba2()
+    
+    
+    Sheets("Hoja3").Select
+    Cells(1, 1) = "hola mundo"
+    Range(Cells(2, 2), Cells(3, 3)) = "Hola a todos"
+    Range("A3:A5") = "Excel es una locula"
+    Range("A3:A5") = 2 * 3
+    
+End Sub
+
+Message Box
+
+
+
