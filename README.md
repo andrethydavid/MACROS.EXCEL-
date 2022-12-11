@@ -79,5 +79,39 @@ End Sub
 
 Message Box
 
+Como incluir un mensaje especifico cuando se cumpla con lactividades requiridas 
+
+![image](https://user-images.githubusercontent.com/72534486/206884954-2a25d17f-4f68-47f5-a185-cde278d5d038.png)
+
+![image](https://user-images.githubusercontent.com/72534486/206885090-586c407a-d5a3-432a-a4d3-389f8f3de26f.png)
+
+excel solucion 
+![image](https://user-images.githubusercontent.com/72534486/206885102-9771f271-4650-4e6d-841c-a94b99ebd627.png)
+
+Input Box
+
+Es un mensaje donde podemos crear una ventana emergente 
+
+
+![image](https://user-images.githubusercontent.com/72534486/206885464-f2d21fef-d0b5-49ad-a99c-8dd2ddb6e380.png)
+
+Public Sub divs()
+
+    Dim num As Integer
+    Dim den As Integer
+    dim = a
+    
+    num = InputBox("Numerador", "divicion")
+    den = InputBox("denominador", "division")
+    
+    a = MsgBox(num / den, , "division")
+
+
+End Sub
+
+
+Select Case
+
+
 
 
